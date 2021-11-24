@@ -1,0 +1,60 @@
+
+nav img{
+  max-width:130px;
+}
+  
+nav ul{
+font-size: 1rem;
+color:darkgrey;
+font-weight:bold;
+}
+
+.carousel-item img{
+  filter: brightness(50%);
+}
+
+.carousel-caption{
+  font-size: 14px;
+  margin: 10px 10px 80px 100px;
+}
+
+.card-body p{
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 14px;
+  color:rgb(99, 98, 98);
+}
+
+.honolulu p{
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 14px;
+  font-weight:lighter;
+}
+
+#floatingTextarea2{
+  font-size: 1.5rem;
+  }
+
+footer{
+background-color: #214d67;
+font-size: 1rem;
+font-weight: bold;
+}
+
+
+@media only screen and (max-width: 300px), only screen and (max-width:575px) {
+      .form-group{
+        margin-left: 25%;
+      }
+    }
+
+ @media only screen and (max-width: 300px), only screen and (max-width:575px) {
+      .carousel-caption{
+        margin-left: 5%;
+      }
+    }
+
+    /*Comprar Tickets*/
+
+
+
+
